@@ -1,0 +1,48 @@
+{
+  "id": "IB9B8CBF0",
+  "title": {
+    "en": "None",
+    "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
+  },
+  "author": {
+    "en": "Candrakirti",
+    "bo": "ཟླ་བ་གྲགས་པ།"
+  },
+  "imported": "2025-02-06T10:07:29.737693",
+  "source": "http://purl.bdrc.io/resource/WA1NLM688",
+  "toolkit_version": "0.0.1",
+  "parser": "GoogleDocTranslationParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "presentation": {
+      "en": ""
+    },
+    "usage_title": {
+      "en": "None",
+      "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
+    },
+    "long_title": {
+      "en": "None",
+      "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
+    },
+    "version_of": "IB42962D2",
+    "document_id": "1e_csJ5wRxrZQbGH6KzXVJv1Ih92SXYKxvXcfEuDn_WI"
+  },
+  "bases": [
+    {
+      "2E99": {
+        "source_metadata": {
+          "total_segments": 144
+        },
+        "base_file": "2E99.txt"
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
