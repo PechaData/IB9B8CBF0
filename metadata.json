@@ -1,41 +1,41 @@
 {
   "id": "IB9B8CBF0",
   "title": {
-    "en": "None",
-    "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
+    "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤",
+    "en": "None"
   },
   "author": {
-    "en": "Candrakirti",
-    "bo": "ཟླ་བ་གྲགས་པ།"
+    "bo": "ཟླ་བ་གྲགས་པ།",
+    "en": "Candrakirti"
   },
-  "imported": "2025-02-06T10:07:29.737693",
+  "imported": "2025-02-07T14:46:11.840757",
   "source": "http://purl.bdrc.io/resource/WA1NLM688",
   "toolkit_version": "0.0.1",
   "parser": "GoogleDocTranslationParser",
   "initial_creation_type": "google_docx",
   "language": "bo",
   "source_metadata": {
+    "version_of": "IB42962D2",
+    "long_title": {
+      "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤",
+      "en": "None"
+    },
+    "document_id": "1e_csJ5wRxrZQbGH6KzXVJv1Ih92SXYKxvXcfEuDn_WI",
     "presentation": {
       "en": ""
     },
     "usage_title": {
-      "en": "None",
-      "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
-    },
-    "long_title": {
-      "en": "None",
-      "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
-    },
-    "version_of": "IB42962D2",
-    "document_id": "1e_csJ5wRxrZQbGH6KzXVJv1Ih92SXYKxvXcfEuDn_WI"
+      "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤",
+      "en": "None"
+    }
   },
   "bases": [
     {
-      "2E99": {
+      "6E3D": {
         "source_metadata": {
-          "total_segments": 144
+          "total_segments": 87
         },
-        "base_file": "2E99.txt"
+        "base_file": "6E3D.txt"
       }
     }
   ],
