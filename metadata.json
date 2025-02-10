@@ -8,7 +8,7 @@
     "bo": "ཟླ་བ་གྲགས་པ།",
     "en": "Candrakirti"
   },
-  "imported": "2025-02-07T14:46:11.840757",
+  "imported": "2025-02-10T09:47:02.766616",
   "source": "http://purl.bdrc.io/resource/WA1NLM688",
   "toolkit_version": "0.0.1",
   "parser": "GoogleDocTranslationParser",
@@ -31,11 +31,11 @@
   },
   "bases": [
     {
-      "6E3D": {
+      "6E29": {
         "source_metadata": {
-          "total_segments": 87
+          "total_segments": 72
         },
-        "base_file": "6E3D.txt"
+        "base_file": "6E29.txt"
       }
     }
   ],
